@@ -46,5 +46,5 @@ Provided instructions or code snippets for users to apply the Wiener filter for 
 
 ## Acknowledgments
 
-[1] Defocus Blur, Neel Joshi
+[1] Defocus Blur, Neel Joshi <br>
 Microsoft Corporation, Redmond, WA, USA
